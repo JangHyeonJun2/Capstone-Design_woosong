@@ -102,4 +102,20 @@ if __name__ == "__main__":
 - 등록을 누르고 외부포트 , ip주소를 이클립스 db접속할 때 코드에 localhost와 port번호에 넣어주면 접속이 가능하다. 예)this.dbUrl = "jdbc:mysql://13.209.77.137:57674/arduino?serverTimezone=Asia/Seoul&useSSL=false";
     	this.dbId = "root";
     	this.password = "1234";
+-------------------------
+# 자율주행 자동차
 
+-  armbian os(오렌지파이)
+- openCV 카메라 모듈 제어
+
+![사진6](https://user-images.githubusercontent.com/38535971/69373555-68981f00-0ce7-11ea-99b3-32bb2db658b2.PNG)
+
+![사진7](https://user-images.githubusercontent.com/38535971/69373566-6f269680-0ce7-11ea-89a9-41bbc7888c55.PNG)
+
+
+
+추가적으로 필요한 것 
+
+- 초음파 센서로 거리 측정하면서 자율주행하기
+- 전방에 네모 박스 식별해서 주차하기
+- 자율주행 문서 작업하기
