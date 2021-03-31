@@ -14,7 +14,7 @@ __현재 진행률__   **100%**
 
 
 
-### 스마트 주차장 챗봇 소스코드
+### 스마트 주차장 챗봇 예제 소스코드
 
 ```python
 from flask import Flask, request, jsonify
@@ -43,7 +43,7 @@ def Message():
                             "items": [
                                 {
                                     "title" : "",
-                                    "description" : "안녕"
+                                    "description" : ""
                                 }
                             ]
                         }
@@ -58,7 +58,7 @@ def Message():
                 "outputs": [
                     {
                         "simpleText":{
-                            "text" : "아직 공부하고있습니다."
+                            "text" : ""
                         }
                     }
                 ]
