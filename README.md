@@ -1,9 +1,8 @@
 # Capstone-Design_woosong
-# 13주차
 
 ## 스마트 주차장 챗봇 그리고 자율주행 
 
-__현재 진행률__   **75%**
+__현재 진행률__   **100%**
 
 ### 진행흐름
 
@@ -103,19 +102,3 @@ if __name__ == "__main__":
     	this.dbId = "root";
     	this.password = "1234";
 -------------------------
-# 자율주행 자동차
-
--  armbian os(오렌지파이)
-- openCV 카메라 모듈 제어
-
-![사진6](https://user-images.githubusercontent.com/38535971/69373555-68981f00-0ce7-11ea-99b3-32bb2db658b2.PNG)
-
-![사진7](https://user-images.githubusercontent.com/38535971/69373566-6f269680-0ce7-11ea-89a9-41bbc7888c55.PNG)
-
-
-
-추가적으로 필요한 것 
-
-- 초음파 센서로 거리 측정하면서 자율주행하기
-- 전방에 네모 박스 식별해서 주차하기
-- 자율주행 문서 작업하기
