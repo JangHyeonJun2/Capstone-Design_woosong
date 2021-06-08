@@ -98,7 +98,3 @@ if __name__ == "__main__":
 
 ![사진5](https://user-images.githubusercontent.com/38535971/69373311-ddb72480-0ce6-11ea-84ca-d20dc64c86c6.PNG)
 
-- 등록을 누르고 외부포트 , ip주소를 이클립스 db접속할 때 코드에 localhost와 port번호에 넣어주면 접속이 가능하다. 예)this.dbUrl = "jdbc:mysql://13.209.77.137:57674/arduino?serverTimezone=Asia/Seoul&useSSL=false";
-    	this.dbId = "root";
-    	this.password = "1234";
--------------------------
